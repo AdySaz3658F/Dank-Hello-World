@@ -8,4 +8,9 @@ int main()
     cout << "Enter your favorite pornstar: ";
     cin >> pornstar;
     cout << "your favourite pornstar is: " << pornstar << endl;
+
+    char boobsize[50];
+    cout << "Enter your prefered boob size: ";
+    cin >> boobsize;
+    cout << "your favourite prefered boob size: " << boobsize << endl;
 }
