@@ -24,7 +24,7 @@ int main()
     }
     else
     {
-        filepointer = fopen("change.txt", "w") ;
+        filepointer = fopen("inputlog.txt", "w") ;
         fprintf(filepointer, "%s",color );
         fclose(filepointer) ;
         printf("\n\n\nData successfully overwritten to file change.txt \n");
