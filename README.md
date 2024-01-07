@@ -7,4 +7,8 @@ This repository contains Hello World code for both language C and C++ as part of
 
 Now includes steps taken to learn GitHub and trying out its various features
 -Done with fetch and merge
--Now trying pull
+-Done with pull
+-Done with push 
+-Done with pull branch from github
+-Trying to push branch to github
+
