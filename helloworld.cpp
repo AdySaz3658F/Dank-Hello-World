@@ -24,4 +24,9 @@ int main()
     cout << "Enter your favourite race (iykyk): ";
     cin >> racial;
     cout << "your favourite race is: " << racial << endl;
+
+    char ass[50];
+    cout << "Enter your favourite ass type: ";
+    cin >> ass;
+    cout << "your favourite ass type is: ";
 }
