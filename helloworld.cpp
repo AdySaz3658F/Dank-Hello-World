@@ -19,4 +19,9 @@ int main()
     cout << "Enter your prefered boob size: ";
     cin >> boobsize;
     cout << "your favourite prefered boob size: " << boobsize << endl;
+
+    char racial[50];
+    cout << "Enter your favourite race (iykyk): ";
+    cin >> racial;
+    cout << "your favourite race is: " << racial << endl;
 }
